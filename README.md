@@ -1,6 +1,6 @@
 # 2-Links Robotic Arm Project
 
-![Robotic Arm]()
+![image](https://github.com/syauqibilfaqih/2-Links-Robotic-Arm/assets/70939903/9da15b78-10f7-44fb-a2dd-2ef6d6a13290)
 
 ## Overview
 
@@ -9,6 +9,8 @@ This repository contains the source code and design files for a 2-Links Robotic 
 ## Equation
 
 This  is the equation of linear interpolation:
+
+![image](https://github.com/syauqibilfaqih/2-Links-Robotic-Arm/assets/70939903/574d1712-0d85-4b97-93e9-1a9d4fcc4490)
 
 
 ## Code
@@ -25,6 +27,7 @@ The implementation on lua programming language of the previous equation can be s
 
 ## Video
 
+[![image](https://github.com/syauqibilfaqih/2-Links-Robotic-Arm/assets/70939903/049af71d-a0a9-4b41-9e2d-f803a15ab2c1)](https://www.youtube.com/watch?v=OkG5vZrSlcA)
 
 
 ## References
