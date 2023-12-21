@@ -1,6 +1,5 @@
 # 2-Links Robotic Arm Project
-
-![image](https://github.com/syauqibilfaqih/2-Links-Robotic-Arm/assets/70939903/9da15b78-10f7-44fb-a2dd-2ef6d6a13290)
+![image](https://github.com/syauqibilfaqih/2-Links-Robotic-Arm/assets/70939903/bbb44147-bd1b-4885-a83d-1f825445de7b)
 
 ## Overview
 
